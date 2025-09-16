@@ -1,8 +1,8 @@
-import 'package:flutter/material.dart';
 import 'package:fintruth/components/expense_summary.dart';
 import 'package:fintruth/components/expense_tile.dart';
 import 'package:fintruth/data/expense_data.dart';
 import 'package:fintruth/models/expense_item.dart';
+import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {
