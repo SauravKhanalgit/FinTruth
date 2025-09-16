@@ -1,0 +1,30 @@
+name: fintruth
+description: "A new Flutter project." 
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+ 
+dependencies:
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2  # Updated to latest
+  path_provider: ^2.0.14
+  fl_chart: ^0.69.0  # Updated to latest
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: ^1.2.2
+  flutter_slidable: ^3.1.1  # Updated to latest
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+  flutter_lints: ^5.0.0
+  
+flutter:
+ 
+  uses-material-design: true
+ 
