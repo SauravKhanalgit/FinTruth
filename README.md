@@ -1,17 +1,25 @@
-# fintruth
+# 💰 FinTruth
 
-A new Flutter project.
+FinTruth is a Flutter finance tracking app that helps you visualize and manage your daily, weekly, and monthly expenses with interactive graphs and charts.
 
-## Getting Started
+It is designed to give you clear financial insights at a glance.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- Bar Graphs and Charts to track spending habits
+- Daily, Weekly, and Monthly breakdowns
+- Local data storage using Hive 
+- Fast, offline-first experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FinTruth
+## 🛠️ Tech Stack
+- Framework: Flutter
+- State Persistence: Hive
+- UI: Material 3, Custom animations
+- Data Visualization: Flutter charting libraries
+- State Management: Provider
+---
+
+## 📂 Project Structure
