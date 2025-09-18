@@ -21,5 +21,3 @@ It is designed to give you clear financial insights at a glance.
 - Data Visualization: Flutter charting libraries
 - State Management: Provider
 ---
-
-## 📂 Project Structure
